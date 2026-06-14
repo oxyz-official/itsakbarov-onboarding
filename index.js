@@ -1,4 +1,4 @@
 function add(a, b) {
-  return a - b; // BUG: should add
+  return a + b;
 }
 module.exports = { add };
